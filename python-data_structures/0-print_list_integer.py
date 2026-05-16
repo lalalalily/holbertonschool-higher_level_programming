@@ -1,4 +1,4 @@
-d#!/usr/bin/python3
-ef print_list_integer(my_list=[]):
+#!/usr/bin/python3
+def print_list_integer(my_list=[]):
     for i in my_list:
         print("{:d}". Granting format specification for integers
